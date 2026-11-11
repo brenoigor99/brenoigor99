@@ -1,7 +1,7 @@
 <!-- Cabeçalho de Boas-vindas -->
 <div align="center">
   <h1>Olá! Sou Breno Igor 👋</h1>
-  <p><i>Estudante de Tecnologia da Informação - UFRN</i></p>
+  <p><i>"Estudante de Bacharelado em Tecnologia da Informação (UFRN), focado no desenvolvimento de habilidades em programação e interessado em projetos de Pesquisa e Desenvolvimento (P&D). Sou motivado, orientado a aprendizado contínuo e com facilidade para trabalho em equipe."</i></p>
 </div>
 
 <br />

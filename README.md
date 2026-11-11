@@ -1,6 +1,6 @@
 <!-- Cabeçalho de Boas-vindas -->
 <div align="center">
-  <h1>Olá! Sou Breno Igor da Silva 👋</h1>
+  <h1>Olá! Sou Breno Igor 👋</h1>
   <p><i>Estudante de TI</i></p>
 </div>
 

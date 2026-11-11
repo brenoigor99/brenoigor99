@@ -10,10 +10,10 @@
 ## 🚀 Sobre mim
 Sou um estudante de 27 anos do bacharelado em Tecnologia da Informação, com o objetivo de desenvolver minhas habilidades de programação. Além disso, estou interessado em participar de projetos de pesquisa e desenvolvimento na área de TI e afins. Sou uma pessoa motivada e disposta a aprender, possuindo também habilidades em trabalho em equipe.
 
-- 🎓 Cursando **Tecnologia da Informação - UFNR**
-- 🛠️ Atualmente focado em projetos envolvendo **Python, banco de dados e machine learning**
+- 🎓 Cursando **Tecnologia da Informação - UFRN**
+- 🛠️ Atualmente focado em projetos envolvendo **Python, banco de dados, machine learning e engenharia de testes**
 - 💻 Gosto de explorar sistemas, automação e arquitetura de software
-- 📬 Como me encontrar: `seu-email@exemplo.com`
+- 📬 Como me encontrar: `brenoigor_100@hotmail.com`
 
 ---
 

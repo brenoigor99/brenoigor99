@@ -37,6 +37,6 @@ Sou um estudante de 27 anos do bacharelado em Tecnologia da Informação, com o 
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide=html,css" alt="Linguagens Mais Utilizadas" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenoigor99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoigor99&layout=compact&theme=dark&hide=html,css" alt="Linguagens Mais Utilizadas" />
 </div>

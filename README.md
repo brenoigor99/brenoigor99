@@ -1,19 +1,18 @@
 <!-- Cabeçalho de Boas-vindas -->
 <div align="center">
   <h1>Olá! Sou Breno Igor 👋</h1>
-  <p><i>Estudante de TI</i></p>
+  <p><i>Estudante de Tecnologia da Informação - UFRN</i></p>
 </div>
 
 <br />
 
 <!-- Sobre Mim -->
 ## 🚀 Sobre mim
-Sou um estudante de 27 anos do bacharelado em Tecnologia da Informação, com o objetivo de desenvolver minhas habilidades de programação. Além disso, estou interessado em participar de projetos de pesquisa e desenvolvimento na área de TI e afins. Sou uma pessoa motivada e disposta a aprender, possuindo também habilidades em trabalho em equipe.
 
 - 🎓 Cursando **Tecnologia da Informação - UFRN**
-- 🛠️ Atualmente focado em projetos envolvendo **Python, Banco de Dados, Machine Learning e Engenharia de Testes**
+- 🛠️ Atualmente focado em projetos envolvendo **Python, IA, Banco de Dados, Machine Learning e Engenharia de Testes**
 - 💻 Gosto de explorar sistemas, automação e arquitetura de software
-- 📬 Como me encontrar: `brenoigor_100@hotmail.com`
+- 📬 Como me encontrar: `brenoigor_100@hotmil.com`
 
 ---
 
@@ -29,14 +28,4 @@ Sou um estudante de 27 anos do bacharelado em Tecnologia da Informação, com o 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
----
-
-<!-- Cards de Estatísticas -->
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenoigor99&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoigor99&layout=compact&theme=dark&hide=html,css" alt="Linguagens Mais Utilizadas" />
 </div>

@@ -12,7 +12,7 @@
 - 🎓 Cursando **Tecnologia da Informação - UFRN**
 - 🛠️ Atualmente focado em projetos envolvendo **Python, IA, Banco de Dados, Machine Learning e Engenharia de Testes**
 - 💻 Gosto de explorar sistemas, automação e arquitetura de software
-- 📬 Como me encontrar: `brenoigor_100@hotmil.com`
+- 📬 Como me encontrar: `brenoigor_100@hotmail.com`
 
 ---
 

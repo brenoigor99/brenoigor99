@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Cursando **Tecnologia da Informação - UFRN**
-- 🛠️ Atualmente focado em projetos envolvendo **Python, IA, Banco de Dados, Machine Learning e testes**
+- 🛠️ Atualmente focado em projetos envolvendo **Python, APIs REST, Banco de Dados, IA & Machine Learning e Engenharia de Testes**
 - 💻 Gosto de explorar sistemas, automação e arquitetura de software
 - 📬 Como me encontrar: `brenoigor_100@hotmail.com`
 
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
